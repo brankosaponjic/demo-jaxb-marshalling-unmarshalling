@@ -1,0 +1,18 @@
+new TaxIncomeDTO(
+    i,
+    IdentificatorType.JEDAN,
+    "1234393",
+    "Banji",
+    "Jump",
+    "SVP 4",
+    20,
+    10.5,
+    55555,
+    30000,
+    200,
+    2000,
+    0.0,
+    0.0,
+    0.0,
+    10
+)
